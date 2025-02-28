@@ -1,6 +1,6 @@
 - op: replace
   path: /spec/template/spec/domain/memory/guest 
-  value: 3G
+  value: 5G
 - op: replace
   path: /spec/running
   value: true
